@@ -1,8 +1,7 @@
 # Power-BI-Dashboard-Uber-Trip
 Power BI dashboard analyzing Uber bookings, revenue, and trip trends for operational insights.
 
-
-![Screenshot 2025-05-25 195104](https://github.com/user-attachments/assets/2804e2ba-1bc5-431a-ae19-98f23e8b84c9)
+![Screenshot 2025-05-25 202123](https://github.com/user-attachments/assets/702277cd-ee56-4658-8a8b-b3c13ecbb411)
 
 
 ## Dashboard Link
